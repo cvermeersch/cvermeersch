@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on health data in the DRC and Kyrgyz Republic.
-- 😄 Pronouns: she/her
 
 <!--
 **cvermeersch/cvermeersch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
